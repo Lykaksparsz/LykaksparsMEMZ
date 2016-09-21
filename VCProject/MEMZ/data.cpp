@@ -1,6 +1,6 @@
 #include "data.h"
 
-const unsigned char msg[] = "Thanks Joel for showing my trojan on stream!\r\n\r\nPlease wait some time until the last payload activates, which is a very special one.";
+const unsigned char msg[] = "LykaksparsMEMZ Has begin...";
 
 char *sites[] = {
 	"http://google.co.ck/search?q=pussy+destroyer",
